@@ -25,3 +25,13 @@ function quadradro(numero) {
     return numero * numero;
 }
 console.log(quadradro(2))
+
+// Funções de tipo: funções conversoras/construtoras de tipos nativas
+// métodos de iteração de arrays
+// filter, find, reduce, e map
+
+const cargas = [5, 15, 80, 30, 45, 60];
+
+const cargasComAdicional = cargas.map
+
+console.log(["A", "A", "B"].every () => {} );
